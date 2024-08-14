@@ -11,7 +11,6 @@ import { ProductFilterSidebar } from "@/components/ProductFilter";
 import { useSelector } from "react-redux";
 import { ProductState } from "@/store/slices/productSlice";
 
-const filterOptions = ["Category", "Price"]
 const Home = () => {
   const [limit, setLimit] = useState(10);
   const [page, setPage] = useState(1);
