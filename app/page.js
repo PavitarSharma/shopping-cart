@@ -42,7 +42,7 @@ const Home = () => {
                 className="w-full h-full pl-9 pr-2 border-0 outline-0 rounded"
               />
             </div>
-            <div>
+            <div className="lg:hidden block">
               <button className="bg-white rounded px-4 py-3 text-xl border">
                 <IoFilterOutline />
               </button>
