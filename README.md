@@ -1,6 +1,6 @@
 # Shopping Cart Application
 
-This is a simple shopping cart application built using Next.js and styled with Tailwind CSS. The application features three main pages: a product listing page, a product detail page, and a cart page. Product data is fetched from a JSON placeholder site. The project demonstrates the integration of dynamic data fetching with React components and state management, making it a great example of how to build a responsive and functional e-commerce interface.
+This simple shopping cart application is built using Next.js and styled with Tailwind CSS. The application features three main pages: a product listing page, a product detail page, and a cart page. Product data is fetched from a DUMMY JSON site. The project demonstrates the integration of dynamic data fetching with React components and state management, making it a great example of building a responsive and functional e-commerce interface.
 
 ## Features
 
@@ -12,7 +12,7 @@ This is a simple shopping cart application built using Next.js and styled with T
 
 - Next.js
 - Tailwind CSS
-- Fetch API for data retrieval
+- Axios for Fetch API for data retrieval
 
 ## Setup Instructions
 
